@@ -1,0 +1,10 @@
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqXml\obj\Debug\LinqXml.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqXml\obj\Debug\LinqXml.Form1.resources
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqXml\obj\Debug\LinqXml.Properties.Resources.resources
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqXml\obj\Debug\LinqXml.csproj.GenerateResource.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqXml\obj\Debug\LinqXml.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqXml\bin\Debug\LinqXml.exe.config
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqXml\bin\Debug\LinqXml.exe
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqXml\bin\Debug\LinqXml.pdb
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqXml\obj\Debug\LinqXml.exe
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqXml\obj\Debug\LinqXml.pdb

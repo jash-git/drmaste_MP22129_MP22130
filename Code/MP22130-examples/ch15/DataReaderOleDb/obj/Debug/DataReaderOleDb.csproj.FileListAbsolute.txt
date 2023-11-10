@@ -1,0 +1,10 @@
+C:\ch15\DataReaderOleDb\bin\Debug\DataReaderOleDb.exe.config
+C:\ch15\DataReaderOleDb\bin\Debug\DataReaderOleDb.exe
+C:\ch15\DataReaderOleDb\bin\Debug\DataReaderOleDb.pdb
+C:\ch15\DataReaderOleDb\obj\Debug\DataReaderOleDb.csprojAssemblyReference.cache
+C:\ch15\DataReaderOleDb\obj\Debug\DataReaderOleDb.Form1.resources
+C:\ch15\DataReaderOleDb\obj\Debug\DataReaderOleDb.Properties.Resources.resources
+C:\ch15\DataReaderOleDb\obj\Debug\DataReaderOleDb.csproj.GenerateResource.cache
+C:\ch15\DataReaderOleDb\obj\Debug\DataReaderOleDb.csproj.CoreCompileInputs.cache
+C:\ch15\DataReaderOleDb\obj\Debug\DataReaderOleDb.exe
+C:\ch15\DataReaderOleDb\obj\Debug\DataReaderOleDb.pdb

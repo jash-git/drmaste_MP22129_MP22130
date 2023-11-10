@@ -1,0 +1,9 @@
+C:\cs2019\ch06\ProgressBar\bin\Debug\ProgressBar.exe.config
+C:\cs2019\ch06\ProgressBar\bin\Debug\ProgressBar.exe
+C:\cs2019\ch06\ProgressBar\bin\Debug\ProgressBar.pdb
+C:\cs2019\ch06\ProgressBar\obj\Debug\ProgressBar.csprojAssemblyReference.cache
+C:\cs2019\ch06\ProgressBar\obj\Debug\ProgressBar.Form1.resources
+C:\cs2019\ch06\ProgressBar\obj\Debug\ProgressBar.Properties.Resources.resources
+C:\cs2019\ch06\ProgressBar\obj\Debug\ProgressBar.csproj.GenerateResource.cache
+C:\cs2019\ch06\ProgressBar\obj\Debug\ProgressBar.exe
+C:\cs2019\ch06\ProgressBar\obj\Debug\ProgressBar.pdb

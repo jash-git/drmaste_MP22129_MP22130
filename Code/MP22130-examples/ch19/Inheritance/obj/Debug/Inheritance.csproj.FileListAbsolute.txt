@@ -1,0 +1,9 @@
+C:\cs2019\ch19\Inheritance\bin\Debug\Inheritance.exe.config
+C:\cs2019\ch19\Inheritance\bin\Debug\Inheritance.exe
+C:\cs2019\ch19\Inheritance\bin\Debug\Inheritance.pdb
+C:\cs2019\ch19\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\cs2019\ch19\Inheritance\obj\Debug\Inheritance.Form1.resources
+C:\cs2019\ch19\Inheritance\obj\Debug\Inheritance.Properties.Resources.resources
+C:\cs2019\ch19\Inheritance\obj\Debug\Inheritance.csproj.GenerateResource.cache
+C:\cs2019\ch19\Inheritance\obj\Debug\Inheritance.exe
+C:\cs2019\ch19\Inheritance\obj\Debug\Inheritance.pdb

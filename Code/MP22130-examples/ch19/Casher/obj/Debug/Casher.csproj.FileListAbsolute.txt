@@ -1,0 +1,9 @@
+C:\cs2019\ch19\Casher\bin\Debug\Casher.exe.config
+C:\cs2019\ch19\Casher\bin\Debug\Casher.exe
+C:\cs2019\ch19\Casher\bin\Debug\Casher.pdb
+C:\cs2019\ch19\Casher\obj\Debug\Casher.csprojAssemblyReference.cache
+C:\cs2019\ch19\Casher\obj\Debug\Casher.Form1.resources
+C:\cs2019\ch19\Casher\obj\Debug\Casher.Properties.Resources.resources
+C:\cs2019\ch19\Casher\obj\Debug\Casher.csproj.GenerateResource.cache
+C:\cs2019\ch19\Casher\obj\Debug\Casher.exe
+C:\cs2019\ch19\Casher\obj\Debug\Casher.pdb

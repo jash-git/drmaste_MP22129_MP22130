@@ -1,0 +1,7 @@
+C:\cs2019\ch01\Average\bin\Debug\Average.exe.config
+C:\cs2019\ch01\Average\bin\Debug\Average.exe
+C:\cs2019\ch01\Average\bin\Debug\Average.pdb
+C:\cs2019\ch01\Average\obj\Debug\Average.csprojAssemblyReference.cache
+C:\cs2019\ch01\Average\obj\Debug\Average.csproj.CoreCompileInputs.cache
+C:\cs2019\ch01\Average\obj\Debug\Average.exe
+C:\cs2019\ch01\Average\obj\Debug\Average.pdb

@@ -1,0 +1,9 @@
+C:\cs2019\ch09\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\cs2019\ch09\WebBrowser\bin\Debug\WebBrowser.exe
+C:\cs2019\ch09\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\cs2019\ch09\WebBrowser\obj\Debug\WebBrowser.csprojAssemblyReference.cache
+C:\cs2019\ch09\WebBrowser\obj\Debug\WebBrowser.Form1.resources
+C:\cs2019\ch09\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\cs2019\ch09\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.cache
+C:\cs2019\ch09\WebBrowser\obj\Debug\WebBrowser.exe
+C:\cs2019\ch09\WebBrowser\obj\Debug\WebBrowser.pdb

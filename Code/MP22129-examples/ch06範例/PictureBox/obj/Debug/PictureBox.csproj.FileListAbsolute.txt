@@ -1,0 +1,9 @@
+C:\cs2019\ch06\PictureBox\bin\Debug\PictureBox.exe.config
+C:\cs2019\ch06\PictureBox\bin\Debug\PictureBox.exe
+C:\cs2019\ch06\PictureBox\bin\Debug\PictureBox.pdb
+C:\cs2019\ch06\PictureBox\obj\Debug\PictureBox.csprojAssemblyReference.cache
+C:\cs2019\ch06\PictureBox\obj\Debug\PictureBox.Form1.resources
+C:\cs2019\ch06\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+C:\cs2019\ch06\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.cache
+C:\cs2019\ch06\PictureBox\obj\Debug\PictureBox.exe
+C:\cs2019\ch06\PictureBox\obj\Debug\PictureBox.pdb

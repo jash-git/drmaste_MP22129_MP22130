@@ -1,0 +1,9 @@
+C:\cs2019\ch05\compound\bin\Debug\compound.exe.config
+C:\cs2019\ch05\compound\bin\Debug\compound.exe
+C:\cs2019\ch05\compound\bin\Debug\compound.pdb
+C:\cs2019\ch05\compound\obj\Debug\compound.csprojAssemblyReference.cache
+C:\cs2019\ch05\compound\obj\Debug\compound.Form1.resources
+C:\cs2019\ch05\compound\obj\Debug\compound.Properties.Resources.resources
+C:\cs2019\ch05\compound\obj\Debug\compound.csproj.GenerateResource.cache
+C:\cs2019\ch05\compound\obj\Debug\compound.exe
+C:\cs2019\ch05\compound\obj\Debug\compound.pdb

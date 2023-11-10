@@ -1,0 +1,9 @@
+C:\cs2019\ch06\CheckBox\bin\Debug\CheckBox.exe.config
+C:\cs2019\ch06\CheckBox\bin\Debug\CheckBox.exe
+C:\cs2019\ch06\CheckBox\bin\Debug\CheckBox.pdb
+C:\cs2019\ch06\CheckBox\obj\Debug\CheckBox.csprojAssemblyReference.cache
+C:\cs2019\ch06\CheckBox\obj\Debug\CheckBox.Form1.resources
+C:\cs2019\ch06\CheckBox\obj\Debug\CheckBox.Properties.Resources.resources
+C:\cs2019\ch06\CheckBox\obj\Debug\CheckBox.csproj.GenerateResource.cache
+C:\cs2019\ch06\CheckBox\obj\Debug\CheckBox.exe
+C:\cs2019\ch06\CheckBox\obj\Debug\CheckBox.pdb

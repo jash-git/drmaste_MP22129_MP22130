@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\StuScore\bin\Debug\StuScore.exe.config
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\StuScore\bin\Debug\StuScore.exe
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\StuScore\bin\Debug\StuScore.pdb
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\StuScore\obj\Debug\StuScore.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\StuScore\obj\Debug\StuScore.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\StuScore\obj\Debug\StuScore.exe
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\StuScore\obj\Debug\StuScore.pdb

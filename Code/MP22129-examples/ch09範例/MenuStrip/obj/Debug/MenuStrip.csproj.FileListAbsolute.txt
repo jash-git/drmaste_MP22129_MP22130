@@ -1,0 +1,9 @@
+C:\cs2019\ch09\MenuStrip\bin\Debug\MenuStrip.exe.config
+C:\cs2019\ch09\MenuStrip\bin\Debug\MenuStrip.exe
+C:\cs2019\ch09\MenuStrip\bin\Debug\MenuStrip.pdb
+C:\cs2019\ch09\MenuStrip\obj\Debug\MenuStrip.csprojAssemblyReference.cache
+C:\cs2019\ch09\MenuStrip\obj\Debug\MenuStrip.Form1.resources
+C:\cs2019\ch09\MenuStrip\obj\Debug\MenuStrip.Properties.Resources.resources
+C:\cs2019\ch09\MenuStrip\obj\Debug\MenuStrip.csproj.GenerateResource.cache
+C:\cs2019\ch09\MenuStrip\obj\Debug\MenuStrip.exe
+C:\cs2019\ch09\MenuStrip\obj\Debug\MenuStrip.pdb

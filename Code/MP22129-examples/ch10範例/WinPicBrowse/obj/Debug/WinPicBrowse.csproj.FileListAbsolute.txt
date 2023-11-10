@@ -1,0 +1,11 @@
+C:\MyWorks\C#2019學習經典\ch11範例\WinPicBrowse\bin\Debug\WinPicBrowse.exe.config
+C:\MyWorks\C#2019學習經典\ch11範例\WinPicBrowse\bin\Debug\WinPicBrowse.exe
+C:\MyWorks\C#2019學習經典\ch11範例\WinPicBrowse\bin\Debug\WinPicBrowse.pdb
+C:\MyWorks\C#2019學習經典\ch11範例\WinPicBrowse\obj\Debug\WinPicBrowse.csprojAssemblyReference.cache
+C:\MyWorks\C#2019學習經典\ch11範例\WinPicBrowse\obj\Debug\WinPicBrowse.Form1.resources
+C:\MyWorks\C#2019學習經典\ch11範例\WinPicBrowse\obj\Debug\WinPicBrowse.FrmPic.resources
+C:\MyWorks\C#2019學習經典\ch11範例\WinPicBrowse\obj\Debug\WinPicBrowse.Properties.Resources.resources
+C:\MyWorks\C#2019學習經典\ch11範例\WinPicBrowse\obj\Debug\WinPicBrowse.csproj.GenerateResource.cache
+C:\MyWorks\C#2019學習經典\ch11範例\WinPicBrowse\obj\Debug\WinPicBrowse.csproj.CoreCompileInputs.cache
+C:\MyWorks\C#2019學習經典\ch11範例\WinPicBrowse\obj\Debug\WinPicBrowse.exe
+C:\MyWorks\C#2019學習經典\ch11範例\WinPicBrowse\obj\Debug\WinPicBrowse.pdb

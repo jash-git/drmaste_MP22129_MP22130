@@ -1,0 +1,9 @@
+C:\cs2019\ch06\RadioButton\obj\Debug\RadioButton.csprojAssemblyReference.cache
+C:\cs2019\ch06\RadioButton\obj\Debug\RadioButton.Form1.resources
+C:\cs2019\ch06\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+C:\cs2019\ch06\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.cache
+C:\cs2019\ch06\RadioButton\bin\Debug\RadioButton.exe.config
+C:\cs2019\ch06\RadioButton\bin\Debug\RadioButton.exe
+C:\cs2019\ch06\RadioButton\bin\Debug\RadioButton.pdb
+C:\cs2019\ch06\RadioButton\obj\Debug\RadioButton.exe
+C:\cs2019\ch06\RadioButton\obj\Debug\RadioButton.pdb

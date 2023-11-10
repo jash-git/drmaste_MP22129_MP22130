@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\MemberVar\bin\Debug\MemberVar.exe.config
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\MemberVar\bin\Debug\MemberVar.exe
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\MemberVar\bin\Debug\MemberVar.pdb
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\MemberVar\obj\Debug\MemberVar.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\MemberVar\obj\Debug\MemberVar.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\MemberVar\obj\Debug\MemberVar.exe
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\MemberVar\obj\Debug\MemberVar.pdb

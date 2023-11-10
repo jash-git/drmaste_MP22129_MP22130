@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\附錄\MathRanMethod\obj\Debug\MathRanMethod.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\附錄\MathRanMethod\obj\Debug\MathRanMethod.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\附錄\MathRanMethod\bin\Debug\MathRanMethod.exe.config
+D:\01學習經典\VC#2019學習經典\附錄\MathRanMethod\bin\Debug\MathRanMethod.exe
+D:\01學習經典\VC#2019學習經典\附錄\MathRanMethod\bin\Debug\MathRanMethod.pdb
+D:\01學習經典\VC#2019學習經典\附錄\MathRanMethod\obj\Debug\MathRanMethod.exe
+D:\01學習經典\VC#2019學習經典\附錄\MathRanMethod\obj\Debug\MathRanMethod.pdb

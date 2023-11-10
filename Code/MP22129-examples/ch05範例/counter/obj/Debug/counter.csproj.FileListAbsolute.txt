@@ -1,0 +1,9 @@
+C:\cs2019\ch05\counter\bin\Debug\counter.exe.config
+C:\cs2019\ch05\counter\bin\Debug\counter.exe
+C:\cs2019\ch05\counter\bin\Debug\counter.pdb
+C:\cs2019\ch05\counter\obj\Debug\counter.csprojAssemblyReference.cache
+C:\cs2019\ch05\counter\obj\Debug\counter.Form1.resources
+C:\cs2019\ch05\counter\obj\Debug\counter.Properties.Resources.resources
+C:\cs2019\ch05\counter\obj\Debug\counter.csproj.GenerateResource.cache
+C:\cs2019\ch05\counter\obj\Debug\counter.exe
+C:\cs2019\ch05\counter\obj\Debug\counter.pdb

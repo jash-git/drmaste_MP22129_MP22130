@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\Calculate\bin\Debug\Calculate.exe.config
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\Calculate\bin\Debug\Calculate.exe
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\Calculate\bin\Debug\Calculate.pdb
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\Calculate\obj\Debug\Calculate.exe
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\Calculate\obj\Debug\Calculate.pdb

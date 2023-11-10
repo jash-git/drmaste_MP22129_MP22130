@@ -1,0 +1,10 @@
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqScore\bin\Debug\LinqScore.exe.config
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqScore\bin\Debug\LinqScore.exe
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqScore\bin\Debug\LinqScore.pdb
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqScore\obj\Debug\LinqScore.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqScore\obj\Debug\LinqScore.Form1.resources
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqScore\obj\Debug\LinqScore.Properties.Resources.resources
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqScore\obj\Debug\LinqScore.csproj.GenerateResource.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqScore\obj\Debug\LinqScore.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqScore\obj\Debug\LinqScore.exe
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqScore\obj\Debug\LinqScore.pdb

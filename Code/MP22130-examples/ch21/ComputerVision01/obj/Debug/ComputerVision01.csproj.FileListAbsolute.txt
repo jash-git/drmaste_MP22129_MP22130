@@ -1,0 +1,36 @@
+C:\cs2019\ch21\ComputerVision01\bin\Debug\ComputerVision01.exe.config
+C:\cs2019\ch21\ComputerVision01\bin\Debug\ComputerVision01.exe
+C:\cs2019\ch21\ComputerVision01\bin\Debug\ComputerVision01.pdb
+C:\cs2019\ch21\ComputerVision01\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\cs2019\ch21\ComputerVision01\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\cs2019\ch21\ComputerVision01\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\cs2019\ch21\ComputerVision01\bin\Debug\Newtonsoft.Json.dll
+C:\cs2019\ch21\ComputerVision01\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\cs2019\ch21\ComputerVision01\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\cs2019\ch21\ComputerVision01\bin\Debug\Newtonsoft.Json.xml
+C:\cs2019\ch21\ComputerVision01\obj\Debug\ComputerVision01.csprojAssemblyReference.cache
+C:\cs2019\ch21\ComputerVision01\obj\Debug\ComputerVision01.Form1.resources
+C:\cs2019\ch21\ComputerVision01\obj\Debug\ComputerVision01.Properties.Resources.resources
+C:\cs2019\ch21\ComputerVision01\obj\Debug\ComputerVision01.csproj.GenerateResource.cache
+C:\cs2019\ch21\ComputerVision01\obj\Debug\ComputerVision01.csproj.CoreCompileInputs.cache
+C:\cs2019\ch21\ComputerVision01\obj\Debug\ComputerVision01.csproj.CopyComplete
+C:\cs2019\ch21\ComputerVision01\obj\Debug\ComputerVision01.exe
+C:\cs2019\ch21\ComputerVision01\obj\Debug\ComputerVision01.pdb
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\bin\Debug\ComputerVision01.exe.config
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\bin\Debug\ComputerVision01.exe
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\bin\Debug\ComputerVision01.pdb
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\obj\Debug\ComputerVision01.csprojAssemblyReference.cache
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\obj\Debug\ComputerVision01.Form1.resources
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\obj\Debug\ComputerVision01.Properties.Resources.resources
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\obj\Debug\ComputerVision01.csproj.GenerateResource.cache
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\obj\Debug\ComputerVision01.csproj.CoreCompileInputs.cache
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\obj\Debug\ComputerVision01.csproj.CopyComplete
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\obj\Debug\ComputerVision01.exe
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch21\ComputerVision01\obj\Debug\ComputerVision01.pdb

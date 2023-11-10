@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\AryMaxAvg\bin\Debug\AryMaxAvg.exe.config
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\AryMaxAvg\bin\Debug\AryMaxAvg.exe
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\AryMaxAvg\bin\Debug\AryMaxAvg.pdb
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\AryMaxAvg\obj\Debug\AryMaxAvg.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\AryMaxAvg\obj\Debug\AryMaxAvg.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\AryMaxAvg\obj\Debug\AryMaxAvg.exe
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\AryMaxAvg\obj\Debug\AryMaxAvg.pdb

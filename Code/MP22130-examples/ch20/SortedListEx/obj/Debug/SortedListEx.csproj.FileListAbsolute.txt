@@ -1,0 +1,9 @@
+C:\cs2019\ch20\SortedListEx\obj\Debug\SortedListEx.csprojAssemblyReference.cache
+C:\cs2019\ch20\SortedListEx\obj\Debug\SortedListEx.Form1.resources
+C:\cs2019\ch20\SortedListEx\obj\Debug\SortedListEx.Properties.Resources.resources
+C:\cs2019\ch20\SortedListEx\obj\Debug\SortedListEx.csproj.GenerateResource.cache
+C:\cs2019\ch20\SortedListEx\bin\Debug\SortedListEx.exe.config
+C:\cs2019\ch20\SortedListEx\bin\Debug\SortedListEx.exe
+C:\cs2019\ch20\SortedListEx\bin\Debug\SortedListEx.pdb
+C:\cs2019\ch20\SortedListEx\obj\Debug\SortedListEx.exe
+C:\cs2019\ch20\SortedListEx\obj\Debug\SortedListEx.pdb

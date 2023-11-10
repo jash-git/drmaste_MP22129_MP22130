@@ -1,0 +1,10 @@
+C:\ch15\DataAdapterOleDb\bin\Debug\DataAdapterOleDb.exe.config
+C:\ch15\DataAdapterOleDb\bin\Debug\DataAdapterOleDb.exe
+C:\ch15\DataAdapterOleDb\bin\Debug\DataAdapterOleDb.pdb
+C:\ch15\DataAdapterOleDb\obj\Debug\DataAdapterOleDb.csprojAssemblyReference.cache
+C:\ch15\DataAdapterOleDb\obj\Debug\DataAdapterOleDb.Form1.resources
+C:\ch15\DataAdapterOleDb\obj\Debug\DataAdapterOleDb.Properties.Resources.resources
+C:\ch15\DataAdapterOleDb\obj\Debug\DataAdapterOleDb.csproj.GenerateResource.cache
+C:\ch15\DataAdapterOleDb\obj\Debug\DataAdapterOleDb.csproj.CoreCompileInputs.cache
+C:\ch15\DataAdapterOleDb\obj\Debug\DataAdapterOleDb.exe
+C:\ch15\DataAdapterOleDb\obj\Debug\DataAdapterOleDb.pdb

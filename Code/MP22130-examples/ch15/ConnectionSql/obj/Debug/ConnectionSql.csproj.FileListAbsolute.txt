@@ -1,0 +1,10 @@
+C:\ch15\ConnectionSql\bin\Debug\ConnectionSql.exe.config
+C:\ch15\ConnectionSql\bin\Debug\ConnectionSql.exe
+C:\ch15\ConnectionSql\bin\Debug\ConnectionSql.pdb
+C:\ch15\ConnectionSql\obj\Debug\ConnectionSql.csprojAssemblyReference.cache
+C:\ch15\ConnectionSql\obj\Debug\ConnectionSql.Form1.resources
+C:\ch15\ConnectionSql\obj\Debug\ConnectionSql.Properties.Resources.resources
+C:\ch15\ConnectionSql\obj\Debug\ConnectionSql.csproj.GenerateResource.cache
+C:\ch15\ConnectionSql\obj\Debug\ConnectionSql.csproj.CoreCompileInputs.cache
+C:\ch15\ConnectionSql\obj\Debug\ConnectionSql.exe
+C:\ch15\ConnectionSql\obj\Debug\ConnectionSql.pdb

@@ -1,0 +1,9 @@
+C:\cs2019\ch07\ImageList\bin\Debug\ImageList.exe.config
+C:\cs2019\ch07\ImageList\bin\Debug\ImageList.exe
+C:\cs2019\ch07\ImageList\bin\Debug\ImageList.pdb
+C:\cs2019\ch07\ImageList\obj\Debug\ImageList.csprojAssemblyReference.cache
+C:\cs2019\ch07\ImageList\obj\Debug\ImageList.Form1.resources
+C:\cs2019\ch07\ImageList\obj\Debug\ImageList.Properties.Resources.resources
+C:\cs2019\ch07\ImageList\obj\Debug\ImageList.csproj.GenerateResource.cache
+C:\cs2019\ch07\ImageList\obj\Debug\ImageList.exe
+C:\cs2019\ch07\ImageList\obj\Debug\ImageList.pdb

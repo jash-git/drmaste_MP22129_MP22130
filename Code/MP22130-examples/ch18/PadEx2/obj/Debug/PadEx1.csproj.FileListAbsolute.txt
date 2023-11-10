@@ -1,0 +1,9 @@
+C:\cs2019\ch18\PadEx1\bin\Debug\PadEx1.exe.config
+C:\cs2019\ch18\PadEx1\bin\Debug\PadEx1.exe
+C:\cs2019\ch18\PadEx1\bin\Debug\PadEx1.pdb
+C:\cs2019\ch18\PadEx1\obj\Debug\PadEx1.csprojAssemblyReference.cache
+C:\cs2019\ch18\PadEx1\obj\Debug\PadEx1.Form1.resources
+C:\cs2019\ch18\PadEx1\obj\Debug\PadEx1.Properties.Resources.resources
+C:\cs2019\ch18\PadEx1\obj\Debug\PadEx1.csproj.GenerateResource.cache
+C:\cs2019\ch18\PadEx1\obj\Debug\PadEx1.exe
+C:\cs2019\ch18\PadEx1\obj\Debug\PadEx1.pdb

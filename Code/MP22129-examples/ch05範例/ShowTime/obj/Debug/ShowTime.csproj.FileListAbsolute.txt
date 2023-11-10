@@ -1,0 +1,9 @@
+C:\cs2019\ch05\ShowTime\bin\Debug\ShowTime.exe.config
+C:\cs2019\ch05\ShowTime\bin\Debug\ShowTime.exe
+C:\cs2019\ch05\ShowTime\bin\Debug\ShowTime.pdb
+C:\cs2019\ch05\ShowTime\obj\Debug\ShowTime.csprojAssemblyReference.cache
+C:\cs2019\ch05\ShowTime\obj\Debug\ShowTime.Form1.resources
+C:\cs2019\ch05\ShowTime\obj\Debug\ShowTime.Properties.Resources.resources
+C:\cs2019\ch05\ShowTime\obj\Debug\ShowTime.csproj.GenerateResource.cache
+C:\cs2019\ch05\ShowTime\obj\Debug\ShowTime.exe
+C:\cs2019\ch05\ShowTime\obj\Debug\ShowTime.pdb

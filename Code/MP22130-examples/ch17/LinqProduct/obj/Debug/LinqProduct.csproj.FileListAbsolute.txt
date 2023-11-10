@@ -1,0 +1,10 @@
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqProduct\bin\Debug\LinqProduct.exe.config
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqProduct\bin\Debug\LinqProduct.exe
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqProduct\bin\Debug\LinqProduct.pdb
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqProduct\obj\Debug\LinqProduct.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqProduct\obj\Debug\LinqProduct.Form1.resources
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqProduct\obj\Debug\LinqProduct.Properties.Resources.resources
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqProduct\obj\Debug\LinqProduct.csproj.GenerateResource.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqProduct\obj\Debug\LinqProduct.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqProduct\obj\Debug\LinqProduct.exe
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqProduct\obj\Debug\LinqProduct.pdb

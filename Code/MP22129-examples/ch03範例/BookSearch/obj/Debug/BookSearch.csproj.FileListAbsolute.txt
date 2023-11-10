@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\BookSearch\bin\Debug\BookSearch.exe.config
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\BookSearch\bin\Debug\BookSearch.exe
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\BookSearch\bin\Debug\BookSearch.pdb
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\BookSearch\obj\Debug\BookSearch.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\BookSearch\obj\Debug\BookSearch.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\BookSearch\obj\Debug\BookSearch.exe
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\BookSearch\obj\Debug\BookSearch.pdb

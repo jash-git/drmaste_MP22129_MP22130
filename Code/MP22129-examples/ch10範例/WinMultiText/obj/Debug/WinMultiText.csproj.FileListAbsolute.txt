@@ -1,0 +1,12 @@
+C:\MyWorks\C#2019學習經典\ch11範例\WinMultiText\bin\Debug\WinMultiText.exe.config
+C:\MyWorks\C#2019學習經典\ch11範例\WinMultiText\bin\Debug\WinMultiText.exe
+C:\MyWorks\C#2019學習經典\ch11範例\WinMultiText\bin\Debug\WinMultiText.pdb
+C:\MyWorks\C#2019學習經典\ch11範例\WinMultiText\obj\Debug\WinMultiText.csprojAssemblyReference.cache
+C:\MyWorks\C#2019學習經典\ch11範例\WinMultiText\obj\Debug\WinMultiText.FrmMain.resources
+C:\MyWorks\C#2019學習經典\ch11範例\WinMultiText\obj\Debug\WinMultiText.FrmPass.resources
+C:\MyWorks\C#2019學習經典\ch11範例\WinMultiText\obj\Debug\WinMultiText.FrmText.resources
+C:\MyWorks\C#2019學習經典\ch11範例\WinMultiText\obj\Debug\WinMultiText.Properties.Resources.resources
+C:\MyWorks\C#2019學習經典\ch11範例\WinMultiText\obj\Debug\WinMultiText.csproj.GenerateResource.cache
+C:\MyWorks\C#2019學習經典\ch11範例\WinMultiText\obj\Debug\WinMultiText.csproj.CoreCompileInputs.cache
+C:\MyWorks\C#2019學習經典\ch11範例\WinMultiText\obj\Debug\WinMultiText.exe
+C:\MyWorks\C#2019學習經典\ch11範例\WinMultiText\obj\Debug\WinMultiText.pdb

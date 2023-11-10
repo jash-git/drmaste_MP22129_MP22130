@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Add\bin\Debug\Add.exe.config
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Add\bin\Debug\Add.exe
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Add\bin\Debug\Add.pdb
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Add\obj\Debug\Add.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Add\obj\Debug\Add.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Add\obj\Debug\Add.exe
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Add\obj\Debug\Add.pdb

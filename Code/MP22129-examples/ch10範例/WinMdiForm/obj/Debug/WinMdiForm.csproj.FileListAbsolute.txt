@@ -1,0 +1,11 @@
+C:\MyWorks\C#2019學習經典\ch11範例\WinMdiForm\bin\Debug\WinMdiForm.exe.config
+C:\MyWorks\C#2019學習經典\ch11範例\WinMdiForm\bin\Debug\WinMdiForm.exe
+C:\MyWorks\C#2019學習經典\ch11範例\WinMdiForm\bin\Debug\WinMdiForm.pdb
+C:\MyWorks\C#2019學習經典\ch11範例\WinMdiForm\obj\Debug\WinMdiForm.csprojAssemblyReference.cache
+C:\MyWorks\C#2019學習經典\ch11範例\WinMdiForm\obj\Debug\WinMdiForm.Form1.resources
+C:\MyWorks\C#2019學習經典\ch11範例\WinMdiForm\obj\Debug\WinMdiForm.Form2.resources
+C:\MyWorks\C#2019學習經典\ch11範例\WinMdiForm\obj\Debug\WinMdiForm.Properties.Resources.resources
+C:\MyWorks\C#2019學習經典\ch11範例\WinMdiForm\obj\Debug\WinMdiForm.csproj.GenerateResource.cache
+C:\MyWorks\C#2019學習經典\ch11範例\WinMdiForm\obj\Debug\WinMdiForm.csproj.CoreCompileInputs.cache
+C:\MyWorks\C#2019學習經典\ch11範例\WinMdiForm\obj\Debug\WinMdiForm.exe
+C:\MyWorks\C#2019學習經典\ch11範例\WinMdiForm\obj\Debug\WinMdiForm.pdb

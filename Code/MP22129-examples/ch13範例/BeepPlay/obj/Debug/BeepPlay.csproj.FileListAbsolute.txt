@@ -1,0 +1,10 @@
+C:\MyWorks\C#2019學習經典\ch13範例\BeepPlay\bin\Debug\BeepPlay.exe.config
+C:\MyWorks\C#2019學習經典\ch13範例\BeepPlay\bin\Debug\BeepPlay.exe
+C:\MyWorks\C#2019學習經典\ch13範例\BeepPlay\bin\Debug\BeepPlay.pdb
+C:\MyWorks\C#2019學習經典\ch13範例\BeepPlay\obj\Debug\BeepPlay.csprojAssemblyReference.cache
+C:\MyWorks\C#2019學習經典\ch13範例\BeepPlay\obj\Debug\BeepPlay.Form1.resources
+C:\MyWorks\C#2019學習經典\ch13範例\BeepPlay\obj\Debug\BeepPlay.Properties.Resources.resources
+C:\MyWorks\C#2019學習經典\ch13範例\BeepPlay\obj\Debug\BeepPlay.csproj.GenerateResource.cache
+C:\MyWorks\C#2019學習經典\ch13範例\BeepPlay\obj\Debug\BeepPlay.csproj.CoreCompileInputs.cache
+C:\MyWorks\C#2019學習經典\ch13範例\BeepPlay\obj\Debug\BeepPlay.exe
+C:\MyWorks\C#2019學習經典\ch13範例\BeepPlay\obj\Debug\BeepPlay.pdb

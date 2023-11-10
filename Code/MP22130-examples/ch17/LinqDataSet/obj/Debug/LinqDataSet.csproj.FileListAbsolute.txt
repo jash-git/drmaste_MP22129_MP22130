@@ -1,0 +1,10 @@
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDataSet\bin\Debug\LinqDataSet.exe.config
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDataSet\bin\Debug\LinqDataSet.exe
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDataSet\bin\Debug\LinqDataSet.pdb
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDataSet\obj\Debug\LinqDataSet.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDataSet\obj\Debug\LinqDataSet.Form1.resources
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDataSet\obj\Debug\LinqDataSet.Properties.Resources.resources
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDataSet\obj\Debug\LinqDataSet.csproj.GenerateResource.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDataSet\obj\Debug\LinqDataSet.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDataSet\obj\Debug\LinqDataSet.exe
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDataSet\obj\Debug\LinqDataSet.pdb

@@ -1,0 +1,10 @@
+C:\ch15\DataAdapterSql\bin\Debug\DataAdapterSql.exe.config
+C:\ch15\DataAdapterSql\bin\Debug\DataAdapterSql.exe
+C:\ch15\DataAdapterSql\bin\Debug\DataAdapterSql.pdb
+C:\ch15\DataAdapterSql\obj\Debug\DataAdapterSql.csprojAssemblyReference.cache
+C:\ch15\DataAdapterSql\obj\Debug\DataAdapterSql.Form1.resources
+C:\ch15\DataAdapterSql\obj\Debug\DataAdapterSql.Properties.Resources.resources
+C:\ch15\DataAdapterSql\obj\Debug\DataAdapterSql.csproj.GenerateResource.cache
+C:\ch15\DataAdapterSql\obj\Debug\DataAdapterSql.csproj.CoreCompileInputs.cache
+C:\ch15\DataAdapterSql\obj\Debug\DataAdapterSql.exe
+C:\ch15\DataAdapterSql\obj\Debug\DataAdapterSql.pdb

@@ -1,0 +1,9 @@
+C:\cs2019\ch09\BirdFly\bin\Debug\BirdFly.exe.config
+C:\cs2019\ch09\BirdFly\bin\Debug\BirdFly.exe
+C:\cs2019\ch09\BirdFly\bin\Debug\BirdFly.pdb
+C:\cs2019\ch09\BirdFly\obj\Debug\BirdFly.csprojAssemblyReference.cache
+C:\cs2019\ch09\BirdFly\obj\Debug\BirdFly.Form1.resources
+C:\cs2019\ch09\BirdFly\obj\Debug\BirdFly.Properties.Resources.resources
+C:\cs2019\ch09\BirdFly\obj\Debug\BirdFly.csproj.GenerateResource.cache
+C:\cs2019\ch09\BirdFly\obj\Debug\BirdFly.exe
+C:\cs2019\ch09\BirdFly\obj\Debug\BirdFly.pdb

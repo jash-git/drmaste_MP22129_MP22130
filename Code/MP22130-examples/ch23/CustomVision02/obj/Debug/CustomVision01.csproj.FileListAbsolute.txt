@@ -1,0 +1,13 @@
+C:\Users\jasper\Desktop\CustomVision01\bin\Debug\CustomVision01.exe.config
+C:\Users\jasper\Desktop\CustomVision01\bin\Debug\CustomVision01.exe
+C:\Users\jasper\Desktop\CustomVision01\bin\Debug\CustomVision01.pdb
+C:\Users\jasper\Desktop\CustomVision01\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jasper\Desktop\CustomVision01\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jasper\Desktop\CustomVision01\obj\Debug\CustomVision01.csprojAssemblyReference.cache
+C:\Users\jasper\Desktop\CustomVision01\obj\Debug\CustomVision01.Form1.resources
+C:\Users\jasper\Desktop\CustomVision01\obj\Debug\CustomVision01.Properties.Resources.resources
+C:\Users\jasper\Desktop\CustomVision01\obj\Debug\CustomVision01.csproj.GenerateResource.cache
+C:\Users\jasper\Desktop\CustomVision01\obj\Debug\CustomVision01.csproj.CoreCompileInputs.cache
+C:\Users\jasper\Desktop\CustomVision01\obj\Debug\CustomVision01.csproj.CopyComplete
+C:\Users\jasper\Desktop\CustomVision01\obj\Debug\CustomVision01.exe
+C:\Users\jasper\Desktop\CustomVision01\obj\Debug\CustomVision01.pdb

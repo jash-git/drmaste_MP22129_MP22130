@@ -1,0 +1,9 @@
+D:\Do\do_VC#\C#2017學習經典\ch13_0720\ch13範例-0720\WinFileOperate\obj\Debug\WinFileOperate.csprojResolveAssemblyReference.cache
+D:\Do\do_VC#\C#2017學習經典\ch13_0720\ch13範例-0720\WinFileOperate\obj\Debug\WinFileOperate.Form1.resources
+D:\Do\do_VC#\C#2017學習經典\ch13_0720\ch13範例-0720\WinFileOperate\obj\Debug\WinFileOperate.Properties.Resources.resources
+D:\Do\do_VC#\C#2017學習經典\ch13_0720\ch13範例-0720\WinFileOperate\obj\Debug\WinFileOperate.csproj.GenerateResource.Cache
+D:\Do\do_VC#\C#2017學習經典\ch13_0720\ch13範例-0720\WinFileOperate\bin\Debug\WinFileOperate.exe.config
+D:\Do\do_VC#\C#2017學習經典\ch13_0720\ch13範例-0720\WinFileOperate\bin\Debug\WinFileOperate.exe
+D:\Do\do_VC#\C#2017學習經典\ch13_0720\ch13範例-0720\WinFileOperate\bin\Debug\WinFileOperate.pdb
+D:\Do\do_VC#\C#2017學習經典\ch13_0720\ch13範例-0720\WinFileOperate\obj\Debug\WinFileOperate.exe
+D:\Do\do_VC#\C#2017學習經典\ch13_0720\ch13範例-0720\WinFileOperate\obj\Debug\WinFileOperate.pdb

@@ -1,0 +1,10 @@
+C:\MyWorks\C#2019學習經典\ch13範例\WinSystemSounds\bin\Debug\WinSystemSounds.exe.config
+C:\MyWorks\C#2019學習經典\ch13範例\WinSystemSounds\bin\Debug\WinSystemSounds.exe
+C:\MyWorks\C#2019學習經典\ch13範例\WinSystemSounds\bin\Debug\WinSystemSounds.pdb
+C:\MyWorks\C#2019學習經典\ch13範例\WinSystemSounds\obj\Debug\WinSystemSounds.csprojAssemblyReference.cache
+C:\MyWorks\C#2019學習經典\ch13範例\WinSystemSounds\obj\Debug\WinSystemSounds.Form1.resources
+C:\MyWorks\C#2019學習經典\ch13範例\WinSystemSounds\obj\Debug\WinSystemSounds.Properties.Resources.resources
+C:\MyWorks\C#2019學習經典\ch13範例\WinSystemSounds\obj\Debug\WinSystemSounds.csproj.GenerateResource.cache
+C:\MyWorks\C#2019學習經典\ch13範例\WinSystemSounds\obj\Debug\WinSystemSounds.csproj.CoreCompileInputs.cache
+C:\MyWorks\C#2019學習經典\ch13範例\WinSystemSounds\obj\Debug\WinSystemSounds.exe
+C:\MyWorks\C#2019學習經典\ch13範例\WinSystemSounds\obj\Debug\WinSystemSounds.pdb

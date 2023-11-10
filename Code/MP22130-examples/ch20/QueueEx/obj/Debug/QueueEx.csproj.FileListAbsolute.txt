@@ -1,0 +1,9 @@
+C:\cs2019\ch20\QueueEx\obj\Debug\QueueEx.csprojAssemblyReference.cache
+C:\cs2019\ch20\QueueEx\obj\Debug\QueueEx.Form1.resources
+C:\cs2019\ch20\QueueEx\obj\Debug\QueueEx.Properties.Resources.resources
+C:\cs2019\ch20\QueueEx\obj\Debug\QueueEx.csproj.GenerateResource.cache
+C:\cs2019\ch20\QueueEx\bin\Debug\QueueEx.exe.config
+C:\cs2019\ch20\QueueEx\bin\Debug\QueueEx.exe
+C:\cs2019\ch20\QueueEx\bin\Debug\QueueEx.pdb
+C:\cs2019\ch20\QueueEx\obj\Debug\QueueEx.exe
+C:\cs2019\ch20\QueueEx\obj\Debug\QueueEx.pdb

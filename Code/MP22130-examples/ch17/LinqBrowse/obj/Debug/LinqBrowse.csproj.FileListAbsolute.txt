@@ -1,0 +1,10 @@
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqBrowse\bin\Debug\LinqBrowse.exe.config
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqBrowse\bin\Debug\LinqBrowse.exe
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqBrowse\bin\Debug\LinqBrowse.pdb
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqBrowse\obj\Debug\LinqBrowse.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqBrowse\obj\Debug\LinqBrowse.Form1.resources
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqBrowse\obj\Debug\LinqBrowse.Properties.Resources.resources
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqBrowse\obj\Debug\LinqBrowse.csproj.GenerateResource.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqBrowse\obj\Debug\LinqBrowse.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqBrowse\obj\Debug\LinqBrowse.exe
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqBrowse\obj\Debug\LinqBrowse.pdb

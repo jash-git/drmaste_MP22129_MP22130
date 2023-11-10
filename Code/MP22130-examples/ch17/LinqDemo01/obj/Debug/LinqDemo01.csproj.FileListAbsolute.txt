@@ -1,0 +1,10 @@
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDemo01\bin\Debug\LinqDemo01.exe.config
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDemo01\bin\Debug\LinqDemo01.exe
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDemo01\bin\Debug\LinqDemo01.pdb
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDemo01\obj\Debug\LinqDemo01.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDemo01\obj\Debug\LinqDemo01.Form1.resources
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDemo01\obj\Debug\LinqDemo01.Properties.Resources.resources
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDemo01\obj\Debug\LinqDemo01.csproj.GenerateResource.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDemo01\obj\Debug\LinqDemo01.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDemo01\obj\Debug\LinqDemo01.exe
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqDemo01\obj\Debug\LinqDemo01.pdb

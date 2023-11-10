@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\附錄\StringMethod\bin\Debug\StringMethod.exe.config
+D:\01學習經典\VC#2019學習經典\附錄\StringMethod\bin\Debug\StringMethod.exe
+D:\01學習經典\VC#2019學習經典\附錄\StringMethod\bin\Debug\StringMethod.pdb
+D:\01學習經典\VC#2019學習經典\附錄\StringMethod\obj\Debug\StringMethod.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\附錄\StringMethod\obj\Debug\StringMethod.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\附錄\StringMethod\obj\Debug\StringMethod.exe
+D:\01學習經典\VC#2019學習經典\附錄\StringMethod\obj\Debug\StringMethod.pdb

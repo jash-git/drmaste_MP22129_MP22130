@@ -1,0 +1,6 @@
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\Starts\bin\Debug\Starts.exe.config
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\Starts\bin\Debug\Starts.exe
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\Starts\bin\Debug\Starts.pdb
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\Starts\obj\Debug\Starts.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\Starts\obj\Debug\Starts.exe
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\Starts\obj\Debug\Starts.pdb

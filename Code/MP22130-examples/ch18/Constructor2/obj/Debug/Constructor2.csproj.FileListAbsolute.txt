@@ -1,0 +1,9 @@
+C:\cs2019\ch18\Constructor2\bin\Debug\Constructor2.exe.config
+C:\cs2019\ch18\Constructor2\bin\Debug\Constructor2.exe
+C:\cs2019\ch18\Constructor2\bin\Debug\Constructor2.pdb
+C:\cs2019\ch18\Constructor2\obj\Debug\Constructor2.csprojAssemblyReference.cache
+C:\cs2019\ch18\Constructor2\obj\Debug\Constructor2.Form1.resources
+C:\cs2019\ch18\Constructor2\obj\Debug\Constructor2.Properties.Resources.resources
+C:\cs2019\ch18\Constructor2\obj\Debug\Constructor2.csproj.GenerateResource.cache
+C:\cs2019\ch18\Constructor2\obj\Debug\Constructor2.exe
+C:\cs2019\ch18\Constructor2\obj\Debug\Constructor2.pdb

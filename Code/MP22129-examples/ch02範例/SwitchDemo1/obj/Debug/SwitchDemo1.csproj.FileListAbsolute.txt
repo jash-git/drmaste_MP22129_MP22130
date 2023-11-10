@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\SwitchDemo1\bin\Debug\SwitchDemo1.exe.config
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\SwitchDemo1\bin\Debug\SwitchDemo1.exe
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\SwitchDemo1\bin\Debug\SwitchDemo1.pdb
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\SwitchDemo1\obj\Debug\SwitchDemo1.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\SwitchDemo1\obj\Debug\SwitchDemo1.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\SwitchDemo1\obj\Debug\SwitchDemo1.exe
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\SwitchDemo1\obj\Debug\SwitchDemo1.pdb

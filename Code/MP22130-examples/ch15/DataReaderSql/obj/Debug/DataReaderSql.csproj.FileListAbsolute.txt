@@ -1,0 +1,10 @@
+C:\ch15\DataReaderSql\bin\Debug\DataReaderSql.exe.config
+C:\ch15\DataReaderSql\bin\Debug\DataReaderSql.exe
+C:\ch15\DataReaderSql\bin\Debug\DataReaderSql.pdb
+C:\ch15\DataReaderSql\obj\Debug\DataReaderSql.csprojAssemblyReference.cache
+C:\ch15\DataReaderSql\obj\Debug\DataReaderSql.Form1.resources
+C:\ch15\DataReaderSql\obj\Debug\DataReaderSql.Properties.Resources.resources
+C:\ch15\DataReaderSql\obj\Debug\DataReaderSql.csproj.GenerateResource.cache
+C:\ch15\DataReaderSql\obj\Debug\DataReaderSql.csproj.CoreCompileInputs.cache
+C:\ch15\DataReaderSql\obj\Debug\DataReaderSql.exe
+C:\ch15\DataReaderSql\obj\Debug\DataReaderSql.pdb

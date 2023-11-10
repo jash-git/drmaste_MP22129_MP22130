@@ -1,0 +1,7 @@
+C:\cs2019\ch01\UserId\bin\Debug\UserId.exe.config
+C:\cs2019\ch01\UserId\bin\Debug\UserId.exe
+C:\cs2019\ch01\UserId\bin\Debug\UserId.pdb
+C:\cs2019\ch01\UserId\obj\Debug\UserId.csprojAssemblyReference.cache
+C:\cs2019\ch01\UserId\obj\Debug\UserId.csproj.CoreCompileInputs.cache
+C:\cs2019\ch01\UserId\obj\Debug\UserId.exe
+C:\cs2019\ch01\UserId\obj\Debug\UserId.pdb

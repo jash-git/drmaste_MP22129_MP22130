@@ -1,0 +1,10 @@
+C:\MyWorks\C#2019學習經典\ch11範例\WinCard\bin\Debug\WinCard.exe.config
+C:\MyWorks\C#2019學習經典\ch11範例\WinCard\bin\Debug\WinCard.exe
+C:\MyWorks\C#2019學習經典\ch11範例\WinCard\bin\Debug\WinCard.pdb
+C:\MyWorks\C#2019學習經典\ch11範例\WinCard\obj\Debug\WinCard.csprojAssemblyReference.cache
+C:\MyWorks\C#2019學習經典\ch11範例\WinCard\obj\Debug\WinCard.Form1.resources
+C:\MyWorks\C#2019學習經典\ch11範例\WinCard\obj\Debug\WinCard.Properties.Resources.resources
+C:\MyWorks\C#2019學習經典\ch11範例\WinCard\obj\Debug\WinCard.csproj.GenerateResource.cache
+C:\MyWorks\C#2019學習經典\ch11範例\WinCard\obj\Debug\WinCard.csproj.CoreCompileInputs.cache
+C:\MyWorks\C#2019學習經典\ch11範例\WinCard\obj\Debug\WinCard.exe
+C:\MyWorks\C#2019學習經典\ch11範例\WinCard\obj\Debug\WinCard.pdb

@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\Subject\bin\Debug\Subject.exe.config
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\Subject\bin\Debug\Subject.exe
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\Subject\bin\Debug\Subject.pdb
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\Subject\obj\Debug\Subject.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\Subject\obj\Debug\Subject.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\Subject\obj\Debug\Subject.exe
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\Subject\obj\Debug\Subject.pdb

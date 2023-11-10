@@ -1,0 +1,9 @@
+C:\cs2019\ch19\Delegate1\obj\Debug\Delegate1.csprojAssemblyReference.cache
+C:\cs2019\ch19\Delegate1\obj\Debug\Delegate1.Form1.resources
+C:\cs2019\ch19\Delegate1\obj\Debug\Delegate1.Properties.Resources.resources
+C:\cs2019\ch19\Delegate1\obj\Debug\Delegate1.csproj.GenerateResource.cache
+C:\cs2019\ch19\Delegate1\bin\Debug\Delegate1.exe.config
+C:\cs2019\ch19\Delegate1\bin\Debug\Delegate1.exe
+C:\cs2019\ch19\Delegate1\bin\Debug\Delegate1.pdb
+C:\cs2019\ch19\Delegate1\obj\Debug\Delegate1.exe
+C:\cs2019\ch19\Delegate1\obj\Debug\Delegate1.pdb

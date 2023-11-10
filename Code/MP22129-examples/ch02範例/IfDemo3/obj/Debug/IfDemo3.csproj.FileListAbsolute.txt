@@ -1,0 +1,6 @@
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\IfDemo3\bin\Debug\IfDemo3.exe.config
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\IfDemo3\bin\Debug\IfDemo3.exe
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\IfDemo3\bin\Debug\IfDemo3.pdb
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\IfDemo3\obj\Debug\IfDemo3.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\IfDemo3\obj\Debug\IfDemo3.exe
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\IfDemo3\obj\Debug\IfDemo3.pdb

@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\ArrayIndexOfDemo\bin\Debug\ArrayIndexOfDemo.exe.config
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\ArrayIndexOfDemo\bin\Debug\ArrayIndexOfDemo.exe
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\ArrayIndexOfDemo\bin\Debug\ArrayIndexOfDemo.pdb
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\ArrayIndexOfDemo\obj\Debug\ArrayIndexOfDemo.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\ArrayIndexOfDemo\obj\Debug\ArrayIndexOfDemo.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\ArrayIndexOfDemo\obj\Debug\ArrayIndexOfDemo.exe
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\ArrayIndexOfDemo\obj\Debug\ArrayIndexOfDemo.pdb

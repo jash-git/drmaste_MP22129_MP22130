@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\DoWhileDemo\bin\Debug\DoWhileDemo.exe.config
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\DoWhileDemo\bin\Debug\DoWhileDemo.exe
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\DoWhileDemo\bin\Debug\DoWhileDemo.pdb
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\DoWhileDemo\obj\Debug\DoWhileDemo.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\DoWhileDemo\obj\Debug\DoWhileDemo.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\DoWhileDemo\obj\Debug\DoWhileDemo.exe
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\DoWhileDemo\obj\Debug\DoWhileDemo.pdb

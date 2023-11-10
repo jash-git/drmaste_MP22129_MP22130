@@ -1,0 +1,9 @@
+C:\cs2019\ch05\conversion\obj\Debug\conversion.csprojAssemblyReference.cache
+C:\cs2019\ch05\conversion\obj\Debug\conversion.Form1.resources
+C:\cs2019\ch05\conversion\obj\Debug\conversion.Properties.Resources.resources
+C:\cs2019\ch05\conversion\obj\Debug\conversion.csproj.GenerateResource.cache
+C:\cs2019\ch05\conversion\bin\Debug\conversion.exe.config
+C:\cs2019\ch05\conversion\bin\Debug\conversion.exe
+C:\cs2019\ch05\conversion\bin\Debug\conversion.pdb
+C:\cs2019\ch05\conversion\obj\Debug\conversion.exe
+C:\cs2019\ch05\conversion\obj\Debug\conversion.pdb

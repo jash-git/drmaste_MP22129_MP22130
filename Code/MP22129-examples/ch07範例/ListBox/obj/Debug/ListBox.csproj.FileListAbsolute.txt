@@ -1,0 +1,9 @@
+C:\cs2019\ch07\ListBox\bin\Debug\ListBox.exe.config
+C:\cs2019\ch07\ListBox\bin\Debug\ListBox.exe
+C:\cs2019\ch07\ListBox\bin\Debug\ListBox.pdb
+C:\cs2019\ch07\ListBox\obj\Debug\ListBox.csprojAssemblyReference.cache
+C:\cs2019\ch07\ListBox\obj\Debug\ListBox.Form1.resources
+C:\cs2019\ch07\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+C:\cs2019\ch07\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+C:\cs2019\ch07\ListBox\obj\Debug\ListBox.exe
+C:\cs2019\ch07\ListBox\obj\Debug\ListBox.pdb

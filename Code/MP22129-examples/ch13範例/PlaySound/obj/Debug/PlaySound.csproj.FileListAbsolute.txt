@@ -1,0 +1,10 @@
+C:\MyWorks\C#2019學習經典\ch13範例\PlaySound\bin\Debug\PlaySound.exe.config
+C:\MyWorks\C#2019學習經典\ch13範例\PlaySound\bin\Debug\PlaySound.exe
+C:\MyWorks\C#2019學習經典\ch13範例\PlaySound\bin\Debug\PlaySound.pdb
+C:\MyWorks\C#2019學習經典\ch13範例\PlaySound\obj\Debug\PlaySound.csprojAssemblyReference.cache
+C:\MyWorks\C#2019學習經典\ch13範例\PlaySound\obj\Debug\PlaySound.Form1.resources
+C:\MyWorks\C#2019學習經典\ch13範例\PlaySound\obj\Debug\PlaySound.Properties.Resources.resources
+C:\MyWorks\C#2019學習經典\ch13範例\PlaySound\obj\Debug\PlaySound.csproj.GenerateResource.cache
+C:\MyWorks\C#2019學習經典\ch13範例\PlaySound\obj\Debug\PlaySound.csproj.CoreCompileInputs.cache
+C:\MyWorks\C#2019學習經典\ch13範例\PlaySound\obj\Debug\PlaySound.exe
+C:\MyWorks\C#2019學習經典\ch13範例\PlaySound\obj\Debug\PlaySound.pdb

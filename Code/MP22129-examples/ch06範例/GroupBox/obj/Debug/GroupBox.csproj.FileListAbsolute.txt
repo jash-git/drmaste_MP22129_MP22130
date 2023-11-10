@@ -1,0 +1,9 @@
+C:\cs2019\ch06\GroupBox\bin\Debug\GroupBox.exe.config
+C:\cs2019\ch06\GroupBox\bin\Debug\GroupBox.exe
+C:\cs2019\ch06\GroupBox\bin\Debug\GroupBox.pdb
+C:\cs2019\ch06\GroupBox\obj\Debug\GroupBox.csprojAssemblyReference.cache
+C:\cs2019\ch06\GroupBox\obj\Debug\GroupBox.Form1.resources
+C:\cs2019\ch06\GroupBox\obj\Debug\GroupBox.Properties.Resources.resources
+C:\cs2019\ch06\GroupBox\obj\Debug\GroupBox.csproj.GenerateResource.cache
+C:\cs2019\ch06\GroupBox\obj\Debug\GroupBox.exe
+C:\cs2019\ch06\GroupBox\obj\Debug\GroupBox.pdb

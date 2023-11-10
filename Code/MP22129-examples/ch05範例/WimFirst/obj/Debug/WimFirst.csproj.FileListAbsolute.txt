@@ -1,0 +1,9 @@
+C:\cs2019\ch05\WimFirst\bin\Debug\WimFirst.exe.config
+C:\cs2019\ch05\WimFirst\bin\Debug\WimFirst.exe
+C:\cs2019\ch05\WimFirst\bin\Debug\WimFirst.pdb
+C:\cs2019\ch05\WimFirst\obj\Debug\WimFirst.csprojAssemblyReference.cache
+C:\cs2019\ch05\WimFirst\obj\Debug\WimFirst.Form1.resources
+C:\cs2019\ch05\WimFirst\obj\Debug\WimFirst.Properties.Resources.resources
+C:\cs2019\ch05\WimFirst\obj\Debug\WimFirst.csproj.GenerateResource.cache
+C:\cs2019\ch05\WimFirst\obj\Debug\WimFirst.exe
+C:\cs2019\ch05\WimFirst\obj\Debug\WimFirst.pdb

@@ -1,0 +1,9 @@
+C:\cs2019\ch08\CatchEggs\bin\Debug\CatchEggs.exe.config
+C:\cs2019\ch08\CatchEggs\bin\Debug\CatchEggs.exe
+C:\cs2019\ch08\CatchEggs\bin\Debug\CatchEggs.pdb
+C:\cs2019\ch08\CatchEggs\obj\Debug\CatchEggs.csprojAssemblyReference.cache
+C:\cs2019\ch08\CatchEggs\obj\Debug\CatchEggs.Form1.resources
+C:\cs2019\ch08\CatchEggs\obj\Debug\CatchEggs.Properties.Resources.resources
+C:\cs2019\ch08\CatchEggs\obj\Debug\CatchEggs.csproj.GenerateResource.cache
+C:\cs2019\ch08\CatchEggs\obj\Debug\CatchEggs.exe
+C:\cs2019\ch08\CatchEggs\obj\Debug\CatchEggs.pdb

@@ -1,0 +1,9 @@
+C:\cs2019\ch20\StackEx\bin\Debug\StackEx.exe.config
+C:\cs2019\ch20\StackEx\bin\Debug\StackEx.exe
+C:\cs2019\ch20\StackEx\bin\Debug\StackEx.pdb
+C:\cs2019\ch20\StackEx\obj\Debug\StackEx.csprojAssemblyReference.cache
+C:\cs2019\ch20\StackEx\obj\Debug\StackEx.Form1.resources
+C:\cs2019\ch20\StackEx\obj\Debug\StackEx.Properties.Resources.resources
+C:\cs2019\ch20\StackEx\obj\Debug\StackEx.csproj.GenerateResource.cache
+C:\cs2019\ch20\StackEx\obj\Debug\StackEx.exe
+C:\cs2019\ch20\StackEx\obj\Debug\StackEx.pdb

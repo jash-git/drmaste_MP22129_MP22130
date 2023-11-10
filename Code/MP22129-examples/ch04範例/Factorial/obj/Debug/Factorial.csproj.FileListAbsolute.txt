@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Factorial\bin\Debug\Factorial.exe.config
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Factorial\bin\Debug\Factorial.exe
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Factorial\bin\Debug\Factorial.pdb
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Factorial\obj\Debug\Factorial.exe
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Factorial\obj\Debug\Factorial.pdb

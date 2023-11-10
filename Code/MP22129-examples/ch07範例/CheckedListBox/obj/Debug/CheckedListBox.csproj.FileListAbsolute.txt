@@ -1,0 +1,9 @@
+C:\cs2019\ch07\CheckedListBox\bin\Debug\CheckedListBox.exe.config
+C:\cs2019\ch07\CheckedListBox\bin\Debug\CheckedListBox.exe
+C:\cs2019\ch07\CheckedListBox\bin\Debug\CheckedListBox.pdb
+C:\cs2019\ch07\CheckedListBox\obj\Debug\CheckedListBox.csprojAssemblyReference.cache
+C:\cs2019\ch07\CheckedListBox\obj\Debug\CheckedListBox.Form1.resources
+C:\cs2019\ch07\CheckedListBox\obj\Debug\CheckedListBox.Properties.Resources.resources
+C:\cs2019\ch07\CheckedListBox\obj\Debug\CheckedListBox.csproj.GenerateResource.cache
+C:\cs2019\ch07\CheckedListBox\obj\Debug\CheckedListBox.exe
+C:\cs2019\ch07\CheckedListBox\obj\Debug\CheckedListBox.pdb

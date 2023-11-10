@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinPicBrowse", "WinPicBrowse.csproj", "{F337C57A-77C2-4B56-BFA7-40F09BEAEAE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F337C57A-77C2-4B56-BFA7-40F09BEAEAE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F337C57A-77C2-4B56-BFA7-40F09BEAEAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F337C57A-77C2-4B56-BFA7-40F09BEAEAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F337C57A-77C2-4B56-BFA7-40F09BEAEAE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F739D38B-05CB-4A2E-8F6C-4959E42538E0}
+	EndGlobalSection
+EndGlobal

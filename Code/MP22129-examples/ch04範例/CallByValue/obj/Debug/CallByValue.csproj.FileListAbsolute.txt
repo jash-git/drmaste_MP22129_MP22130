@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\CallByValue\bin\Debug\CallByValue.exe.config
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\CallByValue\bin\Debug\CallByValue.exe
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\CallByValue\bin\Debug\CallByValue.pdb
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\CallByValue\obj\Debug\CallByValue.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\CallByValue\obj\Debug\CallByValue.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\CallByValue\obj\Debug\CallByValue.exe
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\CallByValue\obj\Debug\CallByValue.pdb

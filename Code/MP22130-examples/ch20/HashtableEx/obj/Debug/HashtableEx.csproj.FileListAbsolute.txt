@@ -1,0 +1,9 @@
+C:\cs2019\ch20\HashtableEx\bin\Debug\HashtableEx.exe.config
+C:\cs2019\ch20\HashtableEx\bin\Debug\HashtableEx.exe
+C:\cs2019\ch20\HashtableEx\bin\Debug\HashtableEx.pdb
+C:\cs2019\ch20\HashtableEx\obj\Debug\HashtableEx.csprojAssemblyReference.cache
+C:\cs2019\ch20\HashtableEx\obj\Debug\HashtableEx.Form1.resources
+C:\cs2019\ch20\HashtableEx\obj\Debug\HashtableEx.Properties.Resources.resources
+C:\cs2019\ch20\HashtableEx\obj\Debug\HashtableEx.csproj.GenerateResource.cache
+C:\cs2019\ch20\HashtableEx\obj\Debug\HashtableEx.exe
+C:\cs2019\ch20\HashtableEx\obj\Debug\HashtableEx.pdb

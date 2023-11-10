@@ -1,0 +1,12 @@
+C:\MyWorks\C#2019學習經典\ch11範例\MultiForm\bin\Debug\MultiForm.exe.config
+C:\MyWorks\C#2019學習經典\ch11範例\MultiForm\bin\Debug\MultiForm.exe
+C:\MyWorks\C#2019學習經典\ch11範例\MultiForm\bin\Debug\MultiForm.pdb
+C:\MyWorks\C#2019學習經典\ch11範例\MultiForm\obj\Debug\MultiForm.csprojAssemblyReference.cache
+C:\MyWorks\C#2019學習經典\ch11範例\MultiForm\obj\Debug\MultiForm.frm1.resources
+C:\MyWorks\C#2019學習經典\ch11範例\MultiForm\obj\Debug\MultiForm.frm2.resources
+C:\MyWorks\C#2019學習經典\ch11範例\MultiForm\obj\Debug\MultiForm.frmMain.resources
+C:\MyWorks\C#2019學習經典\ch11範例\MultiForm\obj\Debug\MultiForm.Properties.Resources.resources
+C:\MyWorks\C#2019學習經典\ch11範例\MultiForm\obj\Debug\MultiForm.csproj.GenerateResource.cache
+C:\MyWorks\C#2019學習經典\ch11範例\MultiForm\obj\Debug\MultiForm.csproj.CoreCompileInputs.cache
+C:\MyWorks\C#2019學習經典\ch11範例\MultiForm\obj\Debug\MultiForm.exe
+C:\MyWorks\C#2019學習經典\ch11範例\MultiForm\obj\Debug\MultiForm.pdb

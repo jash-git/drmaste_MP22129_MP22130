@@ -1,0 +1,9 @@
+C:\cs2017\ch13\WinBinaryWR\bin\Debug\WinBinaryWR.exe.config
+C:\cs2017\ch13\WinBinaryWR\bin\Debug\WinBinaryWR.exe
+C:\cs2017\ch13\WinBinaryWR\bin\Debug\WinBinaryWR.pdb
+C:\cs2017\ch13\WinBinaryWR\obj\Debug\WinBinaryWR.csprojResolveAssemblyReference.cache
+C:\cs2017\ch13\WinBinaryWR\obj\Debug\WinBinaryWR.Form1.resources
+C:\cs2017\ch13\WinBinaryWR\obj\Debug\WinBinaryWR.Properties.Resources.resources
+C:\cs2017\ch13\WinBinaryWR\obj\Debug\WinBinaryWR.csproj.GenerateResource.Cache
+C:\cs2017\ch13\WinBinaryWR\obj\Debug\WinBinaryWR.exe
+C:\cs2017\ch13\WinBinaryWR\obj\Debug\WinBinaryWR.pdb

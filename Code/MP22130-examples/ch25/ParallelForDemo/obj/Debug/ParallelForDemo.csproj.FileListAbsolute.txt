@@ -1,0 +1,6 @@
+C:\cs2019\ch25\ParallelForDemo\bin\Debug\ParallelForDemo.exe.config
+C:\cs2019\ch25\ParallelForDemo\bin\Debug\ParallelForDemo.exe
+C:\cs2019\ch25\ParallelForDemo\bin\Debug\ParallelForDemo.pdb
+C:\cs2019\ch25\ParallelForDemo\obj\Debug\ParallelForDemo.csproj.CoreCompileInputs.cache
+C:\cs2019\ch25\ParallelForDemo\obj\Debug\ParallelForDemo.exe
+C:\cs2019\ch25\ParallelForDemo\obj\Debug\ParallelForDemo.pdb

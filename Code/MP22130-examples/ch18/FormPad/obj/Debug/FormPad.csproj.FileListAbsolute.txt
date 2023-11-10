@@ -1,0 +1,9 @@
+C:\cs2019\ch18\FormPad\bin\Debug\FormPad.exe.config
+C:\cs2019\ch18\FormPad\bin\Debug\FormPad.exe
+C:\cs2019\ch18\FormPad\bin\Debug\FormPad.pdb
+C:\cs2019\ch18\FormPad\obj\Debug\FormPad.csprojAssemblyReference.cache
+C:\cs2019\ch18\FormPad\obj\Debug\FormPad.Form1.resources
+C:\cs2019\ch18\FormPad\obj\Debug\FormPad.Properties.Resources.resources
+C:\cs2019\ch18\FormPad\obj\Debug\FormPad.csproj.GenerateResource.cache
+C:\cs2019\ch18\FormPad\obj\Debug\FormPad.exe
+C:\cs2019\ch18\FormPad\obj\Debug\FormPad.pdb

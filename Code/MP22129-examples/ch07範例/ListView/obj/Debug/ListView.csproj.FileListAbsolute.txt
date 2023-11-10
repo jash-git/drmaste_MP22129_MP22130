@@ -1,0 +1,9 @@
+C:\cs2019\ch07\ListView\bin\Debug\ListView.exe.config
+C:\cs2019\ch07\ListView\bin\Debug\ListView.exe
+C:\cs2019\ch07\ListView\bin\Debug\ListView.pdb
+C:\cs2019\ch07\ListView\obj\Debug\ListView.csprojAssemblyReference.cache
+C:\cs2019\ch07\ListView\obj\Debug\ListView.Form1.resources
+C:\cs2019\ch07\ListView\obj\Debug\ListView.Properties.Resources.resources
+C:\cs2019\ch07\ListView\obj\Debug\ListView.csproj.GenerateResource.cache
+C:\cs2019\ch07\ListView\obj\Debug\ListView.exe
+C:\cs2019\ch07\ListView\obj\Debug\ListView.pdb

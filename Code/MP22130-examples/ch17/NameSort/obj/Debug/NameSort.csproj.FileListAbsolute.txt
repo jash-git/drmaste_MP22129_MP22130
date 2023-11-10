@@ -1,0 +1,10 @@
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\NameSort\bin\Debug\NameSort.exe.config
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\NameSort\bin\Debug\NameSort.exe
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\NameSort\bin\Debug\NameSort.pdb
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\NameSort\obj\Debug\NameSort.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\NameSort\obj\Debug\NameSort.Form1.resources
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\NameSort\obj\Debug\NameSort.Properties.Resources.resources
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\NameSort\obj\Debug\NameSort.csproj.GenerateResource.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\NameSort\obj\Debug\NameSort.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\NameSort\obj\Debug\NameSort.exe
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\NameSort\obj\Debug\NameSort.pdb

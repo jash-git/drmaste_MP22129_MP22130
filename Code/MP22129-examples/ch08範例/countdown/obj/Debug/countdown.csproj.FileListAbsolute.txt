@@ -1,0 +1,9 @@
+C:\cs2019\ch08\countdown\bin\Debug\countdown.exe.config
+C:\cs2019\ch08\countdown\bin\Debug\countdown.exe
+C:\cs2019\ch08\countdown\bin\Debug\countdown.pdb
+C:\cs2019\ch08\countdown\obj\Debug\countdown.csprojAssemblyReference.cache
+C:\cs2019\ch08\countdown\obj\Debug\countdown.Form1.resources
+C:\cs2019\ch08\countdown\obj\Debug\countdown.Properties.Resources.resources
+C:\cs2019\ch08\countdown\obj\Debug\countdown.csproj.GenerateResource.cache
+C:\cs2019\ch08\countdown\obj\Debug\countdown.exe
+C:\cs2019\ch08\countdown\obj\Debug\countdown.pdb

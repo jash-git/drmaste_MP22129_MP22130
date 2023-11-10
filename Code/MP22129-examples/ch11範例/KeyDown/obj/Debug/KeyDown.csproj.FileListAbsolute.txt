@@ -1,0 +1,10 @@
+C:\MyWorks\C#2019學習經典\ch12範例\KeyDown\bin\Debug\KeyDown.exe.config
+C:\MyWorks\C#2019學習經典\ch12範例\KeyDown\bin\Debug\KeyDown.exe
+C:\MyWorks\C#2019學習經典\ch12範例\KeyDown\bin\Debug\KeyDown.pdb
+C:\MyWorks\C#2019學習經典\ch12範例\KeyDown\obj\Debug\KeyDown.csprojAssemblyReference.cache
+C:\MyWorks\C#2019學習經典\ch12範例\KeyDown\obj\Debug\KeyDown.Form1.resources
+C:\MyWorks\C#2019學習經典\ch12範例\KeyDown\obj\Debug\KeyDown.Properties.Resources.resources
+C:\MyWorks\C#2019學習經典\ch12範例\KeyDown\obj\Debug\KeyDown.csproj.GenerateResource.cache
+C:\MyWorks\C#2019學習經典\ch12範例\KeyDown\obj\Debug\KeyDown.csproj.CoreCompileInputs.cache
+C:\MyWorks\C#2019學習經典\ch12範例\KeyDown\obj\Debug\KeyDown.exe
+C:\MyWorks\C#2019學習經典\ch12範例\KeyDown\obj\Debug\KeyDown.pdb

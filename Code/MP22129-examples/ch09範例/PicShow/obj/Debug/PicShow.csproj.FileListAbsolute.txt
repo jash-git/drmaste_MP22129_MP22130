@@ -1,0 +1,9 @@
+C:\cs2019\ch09\PicShow\bin\Debug\PicShow.exe.config
+C:\cs2019\ch09\PicShow\bin\Debug\PicShow.exe
+C:\cs2019\ch09\PicShow\bin\Debug\PicShow.pdb
+C:\cs2019\ch09\PicShow\obj\Debug\PicShow.csprojAssemblyReference.cache
+C:\cs2019\ch09\PicShow\obj\Debug\PicShow.Form1.resources
+C:\cs2019\ch09\PicShow\obj\Debug\PicShow.Properties.Resources.resources
+C:\cs2019\ch09\PicShow\obj\Debug\PicShow.csproj.GenerateResource.cache
+C:\cs2019\ch09\PicShow\obj\Debug\PicShow.exe
+C:\cs2019\ch09\PicShow\obj\Debug\PicShow.pdb

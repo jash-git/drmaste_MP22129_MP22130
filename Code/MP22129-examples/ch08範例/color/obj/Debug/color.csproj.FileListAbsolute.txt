@@ -1,0 +1,9 @@
+C:\cs2019\ch08\color\bin\Debug\color.exe.config
+C:\cs2019\ch08\color\bin\Debug\color.exe
+C:\cs2019\ch08\color\bin\Debug\color.pdb
+C:\cs2019\ch08\color\obj\Debug\color.csprojAssemblyReference.cache
+C:\cs2019\ch08\color\obj\Debug\color.Form1.resources
+C:\cs2019\ch08\color\obj\Debug\color.Properties.Resources.resources
+C:\cs2019\ch08\color\obj\Debug\color.csproj.GenerateResource.cache
+C:\cs2019\ch08\color\obj\Debug\color.exe
+C:\cs2019\ch08\color\obj\Debug\color.pdb

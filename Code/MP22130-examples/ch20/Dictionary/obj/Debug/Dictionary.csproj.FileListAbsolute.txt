@@ -1,0 +1,9 @@
+C:\cs2019\ch20\Dictionary\bin\Debug\Dictionary.exe.config
+C:\cs2019\ch20\Dictionary\bin\Debug\Dictionary.exe
+C:\cs2019\ch20\Dictionary\bin\Debug\Dictionary.pdb
+C:\cs2019\ch20\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+C:\cs2019\ch20\Dictionary\obj\Debug\Dictionary.Form1.resources
+C:\cs2019\ch20\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\cs2019\ch20\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.cache
+C:\cs2019\ch20\Dictionary\obj\Debug\Dictionary.exe
+C:\cs2019\ch20\Dictionary\obj\Debug\Dictionary.pdb

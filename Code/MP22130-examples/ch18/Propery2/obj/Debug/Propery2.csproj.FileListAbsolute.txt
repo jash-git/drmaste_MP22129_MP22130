@@ -1,0 +1,8 @@
+C:\cs2019\ch18\Propery2\bin\Debug\Propery2.exe.config
+C:\cs2019\ch18\Propery2\bin\Debug\Propery2.exe
+C:\cs2019\ch18\Propery2\bin\Debug\Propery2.pdb
+C:\cs2019\ch18\Propery2\obj\Debug\Propery2.Form1.resources
+C:\cs2019\ch18\Propery2\obj\Debug\Propery2.Properties.Resources.resources
+C:\cs2019\ch18\Propery2\obj\Debug\Propery2.csproj.GenerateResource.cache
+C:\cs2019\ch18\Propery2\obj\Debug\Propery2.exe
+C:\cs2019\ch18\Propery2\obj\Debug\Propery2.pdb

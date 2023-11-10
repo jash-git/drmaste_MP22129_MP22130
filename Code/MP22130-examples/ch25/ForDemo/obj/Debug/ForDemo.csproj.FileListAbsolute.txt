@@ -1,0 +1,7 @@
+C:\cs2019\ch25\ForDemo\bin\Debug\ForDemo.exe.config
+C:\cs2019\ch25\ForDemo\bin\Debug\ForDemo.exe
+C:\cs2019\ch25\ForDemo\bin\Debug\ForDemo.pdb
+C:\cs2019\ch25\ForDemo\obj\Debug\ForDemo.csprojAssemblyReference.cache
+C:\cs2019\ch25\ForDemo\obj\Debug\ForDemo.csproj.CoreCompileInputs.cache
+C:\cs2019\ch25\ForDemo\obj\Debug\ForDemo.exe
+C:\cs2019\ch25\ForDemo\obj\Debug\ForDemo.pdb

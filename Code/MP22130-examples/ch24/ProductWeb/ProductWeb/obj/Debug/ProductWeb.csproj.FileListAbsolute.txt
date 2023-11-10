@@ -1,0 +1,167 @@
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\ProductWeb.dll.config
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\ProductWeb.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\ProductWeb.pdb
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\csc.exe
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\csc.exe.config
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\csc.rsp
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\csi.exe
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\csi.exe.config
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\csi.rsp
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.AppContext.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Console.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.IO.Compression.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Net.Http.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Net.Sockets.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.ValueTuple.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Xml.XPath.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\vbc.exe
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\vbc.exe.config
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\vbc.rsp
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\VBCSCompiler.exe
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\EntityFramework.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\EntityFramework.SqlServer.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\System.Web.Helpers.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\System.Web.Mvc.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\System.Web.Razor.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\System.Web.Webpages.Deployment.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\System.Web.Webpages.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\System.Web.Webpages.Razor.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\EntityFramework.xml
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\EntityFramework.SqlServer.xml
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\System.Web.Razor.xml
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\System.Web.Webpages.xml
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\System.Web.Webpages.Deployment.xml
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\System.Web.Webpages.Razor.xml
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\System.Web.Helpers.xml
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\System.Web.Mvc.xml
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\zh-Hant\EntityFramework.resources.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\obj\Debug\ProductWeb.csprojAssemblyReference.cache
+C:\cs2019\ch24\ProductWeb\ProductWeb\obj\Debug\ProductWeb.csproj.CoreCompileInputs.cache
+C:\cs2019\ch24\ProductWeb\ProductWeb\obj\Debug\ProductWeb.csproj.CopyComplete
+C:\cs2019\ch24\ProductWeb\ProductWeb\obj\Debug\ProductWeb.dll
+C:\cs2019\ch24\ProductWeb\ProductWeb\obj\Debug\ProductWeb.pdb
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\ProductWeb.dll.config
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\ProductWeb.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\ProductWeb.pdb
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\csc.exe
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\csc.exe.config
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\csc.rsp
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\csi.exe
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\csi.exe.config
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\csi.rsp
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.AppContext.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Console.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\vbc.exe
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\vbc.exe.config
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\vbc.rsp
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\EntityFramework.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\System.Web.Helpers.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\System.Web.Mvc.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\System.Web.Razor.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\System.Web.Webpages.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\EntityFramework.xml
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\System.Web.Razor.xml
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\System.Web.Webpages.xml
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\System.Web.Helpers.xml
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\System.Web.Mvc.xml
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\obj\Debug\ProductWeb.csprojAssemblyReference.cache
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\obj\Debug\ProductWeb.csproj.CoreCompileInputs.cache
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\obj\Debug\ProductWeb.csproj.CopyComplete
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\obj\Debug\ProductWeb.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2019程式設計完全解析(下)\下冊範例習解投影片\範例\ch24\ProductWeb\ProductWeb\obj\Debug\ProductWeb.pdb

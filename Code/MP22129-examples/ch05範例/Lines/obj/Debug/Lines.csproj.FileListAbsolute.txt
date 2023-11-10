@@ -1,0 +1,9 @@
+C:\cs2019\ch05\Lines\bin\Debug\Lines.exe.config
+C:\cs2019\ch05\Lines\bin\Debug\Lines.exe
+C:\cs2019\ch05\Lines\bin\Debug\Lines.pdb
+C:\cs2019\ch05\Lines\obj\Debug\Lines.csprojAssemblyReference.cache
+C:\cs2019\ch05\Lines\obj\Debug\Lines.Form1.resources
+C:\cs2019\ch05\Lines\obj\Debug\Lines.Properties.Resources.resources
+C:\cs2019\ch05\Lines\obj\Debug\Lines.csproj.GenerateResource.cache
+C:\cs2019\ch05\Lines\obj\Debug\Lines.exe
+C:\cs2019\ch05\Lines\obj\Debug\Lines.pdb

@@ -1,0 +1,9 @@
+C:\cs2019\ch20\UserRecord\bin\Debug\UserRecord.exe.config
+C:\cs2019\ch20\UserRecord\bin\Debug\UserRecord.exe
+C:\cs2019\ch20\UserRecord\bin\Debug\UserRecord.pdb
+C:\cs2019\ch20\UserRecord\obj\Debug\UserRecord.csprojAssemblyReference.cache
+C:\cs2019\ch20\UserRecord\obj\Debug\UserRecord.Form1.resources
+C:\cs2019\ch20\UserRecord\obj\Debug\UserRecord.Properties.Resources.resources
+C:\cs2019\ch20\UserRecord\obj\Debug\UserRecord.csproj.GenerateResource.cache
+C:\cs2019\ch20\UserRecord\obj\Debug\UserRecord.exe
+C:\cs2019\ch20\UserRecord\obj\Debug\UserRecord.pdb

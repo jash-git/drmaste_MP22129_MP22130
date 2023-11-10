@@ -1,0 +1,9 @@
+C:\cs2019\ch19\Override2\bin\Debug\Override2.exe.config
+C:\cs2019\ch19\Override2\bin\Debug\Override2.exe
+C:\cs2019\ch19\Override2\bin\Debug\Override2.pdb
+C:\cs2019\ch19\Override2\obj\Debug\Override2.csprojAssemblyReference.cache
+C:\cs2019\ch19\Override2\obj\Debug\Override2.Form1.resources
+C:\cs2019\ch19\Override2\obj\Debug\Override2.Properties.Resources.resources
+C:\cs2019\ch19\Override2\obj\Debug\Override2.csproj.GenerateResource.cache
+C:\cs2019\ch19\Override2\obj\Debug\Override2.exe
+C:\cs2019\ch19\Override2\obj\Debug\Override2.pdb

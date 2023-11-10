@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Double\bin\Debug\Double.exe.config
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Double\bin\Debug\Double.exe
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Double\bin\Debug\Double.pdb
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Double\obj\Debug\Double.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Double\obj\Debug\Double.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Double\obj\Debug\Double.exe
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\Double\obj\Debug\Double.pdb

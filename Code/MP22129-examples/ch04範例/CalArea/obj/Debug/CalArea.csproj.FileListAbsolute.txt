@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\CalArea\bin\Debug\CalArea.exe.config
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\CalArea\bin\Debug\CalArea.exe
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\CalArea\bin\Debug\CalArea.pdb
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\CalArea\obj\Debug\CalArea.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\CalArea\obj\Debug\CalArea.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\CalArea\obj\Debug\CalArea.exe
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\CalArea\obj\Debug\CalArea.pdb

@@ -1,0 +1,9 @@
+C:\cs2019\ch09\ContextMenuStrip\bin\Debug\ContextMenuStrip.exe.config
+C:\cs2019\ch09\ContextMenuStrip\bin\Debug\ContextMenuStrip.exe
+C:\cs2019\ch09\ContextMenuStrip\bin\Debug\ContextMenuStrip.pdb
+C:\cs2019\ch09\ContextMenuStrip\obj\Debug\ContextMenuStrip.csprojAssemblyReference.cache
+C:\cs2019\ch09\ContextMenuStrip\obj\Debug\ContextMenuStrip.Form1.resources
+C:\cs2019\ch09\ContextMenuStrip\obj\Debug\ContextMenuStrip.Properties.Resources.resources
+C:\cs2019\ch09\ContextMenuStrip\obj\Debug\ContextMenuStrip.csproj.GenerateResource.cache
+C:\cs2019\ch09\ContextMenuStrip\obj\Debug\ContextMenuStrip.exe
+C:\cs2019\ch09\ContextMenuStrip\obj\Debug\ContextMenuStrip.pdb

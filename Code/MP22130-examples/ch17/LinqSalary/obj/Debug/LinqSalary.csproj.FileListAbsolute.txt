@@ -1,0 +1,10 @@
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqSalary\bin\Debug\LinqSalary.exe.config
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqSalary\bin\Debug\LinqSalary.exe
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqSalary\bin\Debug\LinqSalary.pdb
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqSalary\obj\Debug\LinqSalary.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqSalary\obj\Debug\LinqSalary.Form1.resources
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqSalary\obj\Debug\LinqSalary.Properties.Resources.resources
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqSalary\obj\Debug\LinqSalary.csproj.GenerateResource.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqSalary\obj\Debug\LinqSalary.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqSalary\obj\Debug\LinqSalary.exe
+D:\01學習經典\VC#2019學習經典\ch17\ch17範例\LinqSalary\obj\Debug\LinqSalary.pdb

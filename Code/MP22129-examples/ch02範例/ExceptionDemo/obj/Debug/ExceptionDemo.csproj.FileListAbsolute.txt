@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\ExceptionDemo\bin\Debug\ExceptionDemo.exe.config
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\ExceptionDemo\obj\Debug\ExceptionDemo.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\ExceptionDemo\obj\Debug\ExceptionDemo.pdb

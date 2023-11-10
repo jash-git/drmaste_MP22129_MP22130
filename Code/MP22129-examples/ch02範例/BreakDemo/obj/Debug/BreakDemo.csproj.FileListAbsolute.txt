@@ -1,0 +1,6 @@
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\BreakDemo\bin\Debug\BreakDemo.exe.config
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\BreakDemo\bin\Debug\BreakDemo.exe
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\BreakDemo\bin\Debug\BreakDemo.pdb
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\BreakDemo\obj\Debug\BreakDemo.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\BreakDemo\obj\Debug\BreakDemo.exe
+D:\01學習經典\VC#2019學習經典\ch02\ch02範例\BreakDemo\obj\Debug\BreakDemo.pdb

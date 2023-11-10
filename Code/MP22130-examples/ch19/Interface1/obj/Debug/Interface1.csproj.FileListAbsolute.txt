@@ -1,0 +1,9 @@
+C:\cs2019\ch19\Interface1\bin\Debug\Interface1.exe.config
+C:\cs2019\ch19\Interface1\bin\Debug\Interface1.exe
+C:\cs2019\ch19\Interface1\bin\Debug\Interface1.pdb
+C:\cs2019\ch19\Interface1\obj\Debug\Interface1.csprojAssemblyReference.cache
+C:\cs2019\ch19\Interface1\obj\Debug\Interface1.Form1.resources
+C:\cs2019\ch19\Interface1\obj\Debug\Interface1.Properties.Resources.resources
+C:\cs2019\ch19\Interface1\obj\Debug\Interface1.csproj.GenerateResource.cache
+C:\cs2019\ch19\Interface1\obj\Debug\Interface1.exe
+C:\cs2019\ch19\Interface1\obj\Debug\Interface1.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeepPlay", "BeepPlay.csproj", "{281099C8-90AC-4CE7-A744-CCFC0EF38356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{281099C8-90AC-4CE7-A744-CCFC0EF38356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281099C8-90AC-4CE7-A744-CCFC0EF38356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281099C8-90AC-4CE7-A744-CCFC0EF38356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281099C8-90AC-4CE7-A744-CCFC0EF38356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3C9596A-C5F4-47E9-956D-C20F5820964E}
+	EndGlobalSection
+EndGlobal

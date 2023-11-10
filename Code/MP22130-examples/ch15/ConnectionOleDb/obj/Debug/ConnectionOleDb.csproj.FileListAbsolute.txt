@@ -1,0 +1,10 @@
+C:\ch15\ConnectionOleDb\bin\Debug\ConnectionOleDb.exe.config
+C:\ch15\ConnectionOleDb\bin\Debug\ConnectionOleDb.exe
+C:\ch15\ConnectionOleDb\bin\Debug\ConnectionOleDb.pdb
+C:\ch15\ConnectionOleDb\obj\Debug\ConnectionOleDb.csprojAssemblyReference.cache
+C:\ch15\ConnectionOleDb\obj\Debug\ConnectionOleDb.Form1.resources
+C:\ch15\ConnectionOleDb\obj\Debug\ConnectionOleDb.Properties.Resources.resources
+C:\ch15\ConnectionOleDb\obj\Debug\ConnectionOleDb.csproj.GenerateResource.cache
+C:\ch15\ConnectionOleDb\obj\Debug\ConnectionOleDb.csproj.CoreCompileInputs.cache
+C:\ch15\ConnectionOleDb\obj\Debug\ConnectionOleDb.exe
+C:\ch15\ConnectionOleDb\obj\Debug\ConnectionOleDb.pdb

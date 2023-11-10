@@ -1,0 +1,9 @@
+C:\cs2019\ch08\domainUpDn\bin\Debug\domainUpDn.exe.config
+C:\cs2019\ch08\domainUpDn\bin\Debug\domainUpDn.exe
+C:\cs2019\ch08\domainUpDn\bin\Debug\domainUpDn.pdb
+C:\cs2019\ch08\domainUpDn\obj\Debug\domainUpDn.csprojAssemblyReference.cache
+C:\cs2019\ch08\domainUpDn\obj\Debug\domainUpDn.Form1.resources
+C:\cs2019\ch08\domainUpDn\obj\Debug\domainUpDn.Properties.Resources.resources
+C:\cs2019\ch08\domainUpDn\obj\Debug\domainUpDn.csproj.GenerateResource.cache
+C:\cs2019\ch08\domainUpDn\obj\Debug\domainUpDn.exe
+C:\cs2019\ch08\domainUpDn\obj\Debug\domainUpDn.pdb

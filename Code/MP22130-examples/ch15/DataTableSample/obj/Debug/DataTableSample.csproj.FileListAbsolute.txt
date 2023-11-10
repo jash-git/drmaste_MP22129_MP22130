@@ -1,0 +1,10 @@
+C:\ch15\DataTableSample\bin\Debug\DataTableSample.exe.config
+C:\ch15\DataTableSample\bin\Debug\DataTableSample.exe
+C:\ch15\DataTableSample\bin\Debug\DataTableSample.pdb
+C:\ch15\DataTableSample\obj\Debug\DataTableSample.csprojAssemblyReference.cache
+C:\ch15\DataTableSample\obj\Debug\DataTableSample.Form1.resources
+C:\ch15\DataTableSample\obj\Debug\DataTableSample.Properties.Resources.resources
+C:\ch15\DataTableSample\obj\Debug\DataTableSample.csproj.GenerateResource.cache
+C:\ch15\DataTableSample\obj\Debug\DataTableSample.csproj.CoreCompileInputs.cache
+C:\ch15\DataTableSample\obj\Debug\DataTableSample.exe
+C:\ch15\DataTableSample\obj\Debug\DataTableSample.pdb

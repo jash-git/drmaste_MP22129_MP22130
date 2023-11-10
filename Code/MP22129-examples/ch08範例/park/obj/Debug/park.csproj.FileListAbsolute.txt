@@ -1,0 +1,9 @@
+C:\cs2019\ch08\park\bin\Debug\park.exe.config
+C:\cs2019\ch08\park\bin\Debug\park.exe
+C:\cs2019\ch08\park\bin\Debug\park.pdb
+C:\cs2019\ch08\park\obj\Debug\park.csprojAssemblyReference.cache
+C:\cs2019\ch08\park\obj\Debug\park.Form1.resources
+C:\cs2019\ch08\park\obj\Debug\park.Properties.Resources.resources
+C:\cs2019\ch08\park\obj\Debug\park.csproj.GenerateResource.cache
+C:\cs2019\ch08\park\obj\Debug\park.exe
+C:\cs2019\ch08\park\obj\Debug\park.pdb

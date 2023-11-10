@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\SplitDemo\obj\Debug\SplitDemo.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\SplitDemo\obj\Debug\SplitDemo.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\SplitDemo\bin\Debug\SplitDemo.exe.config
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\SplitDemo\bin\Debug\SplitDemo.exe
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\SplitDemo\bin\Debug\SplitDemo.pdb
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\SplitDemo\obj\Debug\SplitDemo.exe
+D:\01學習經典\VC#2019學習經典\ch03\ch03範例\SplitDemo\obj\Debug\SplitDemo.pdb

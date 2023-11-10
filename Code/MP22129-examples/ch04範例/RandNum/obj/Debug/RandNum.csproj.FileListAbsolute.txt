@@ -1,0 +1,7 @@
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\RandNum\bin\Debug\RandNum.exe.config
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\RandNum\bin\Debug\RandNum.exe
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\RandNum\bin\Debug\RandNum.pdb
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\RandNum\obj\Debug\RandNum.csprojAssemblyReference.cache
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\RandNum\obj\Debug\RandNum.csproj.CoreCompileInputs.cache
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\RandNum\obj\Debug\RandNum.exe
+D:\01學習經典\VC#2019學習經典\ch04\ch04範例\RandNum\obj\Debug\RandNum.pdb
